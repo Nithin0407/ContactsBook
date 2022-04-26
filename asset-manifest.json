@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContactsBook/static/css/main.c95718df.css",
+    "main.js": "/ContactsBook/static/js/main.05cd017b.js",
+    "index.html": "/ContactsBook/index.html",
+    "main.c95718df.css.map": "/ContactsBook/static/css/main.c95718df.css.map",
+    "main.05cd017b.js.map": "/ContactsBook/static/js/main.05cd017b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95718df.css",
+    "static/js/main.05cd017b.js"
+  ]
+}
